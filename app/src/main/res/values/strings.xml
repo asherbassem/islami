@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="requried">requried</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="descripition">descripition</string>
+    <string name="name">Name</string>
+    <string name="contactTV">Name</string>
+    <string name="phoneTV">Phone</string>
+    <string name="descriptionTV">Description</string>
+</resources>
