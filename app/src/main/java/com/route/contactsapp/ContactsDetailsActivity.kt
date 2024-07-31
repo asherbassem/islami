@@ -13,7 +13,7 @@ class ContactsDetailsActivity : AppCompatActivity() {
     lateinit var descTextView: TextView
 
 
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(  savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_contacts_details)
         supportActionBar!!.setDisplayHomeAsUpEnabled(true)
